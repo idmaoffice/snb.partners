@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="114.5" height="50" viewBox="0 0 114.5 50">
+  <g id="arButt" transform="translate(-362.5 -681)">
+    <line id="Line_1" data-name="Line 1" x2="93" transform="translate(362.5 705.5)" fill="none" stroke="#fff" stroke-width="1" opacity="1"/>
+    <path id="Path_1" data-name="Path 1" d="M477.255,723.891V719.45l4.441,4.441-4.441,4.441Z" transform="" fill="#fff" opacity="1"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(427 681)" fill="none" stroke="#8496a7" stroke-width="1" opacity="1">
+      <circle cx="25" cy="25" r="25" stroke="#000"/>
+      <circle cx="25" cy="25" r="24.5" fill="none"/>
+    </g>
+  </g>
+</svg>
